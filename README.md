@@ -1,5 +1,5 @@
-# CODSOFT
-This repository is for my four weeks intership at CodSoft as a python intern which includes the following five projects:
+# Python Short Projects
+This repository includes the following five projects made using python:
 * To-Do-List
 * Calculator
 * Password generator
